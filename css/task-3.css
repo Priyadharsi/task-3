@@ -1,0 +1,48 @@
+ *{
+		    box-sizing: border-box;
+			}
+		body{
+			background-color: white;
+			font-family: Arial,sans-serif;
+		}
+	    .container{
+			  display: flex;
+		      width: 1000px;
+			 
+			  margin: 0 auto;
+			  padding-left: 20px;
+			  padding-right: 20px;
+			  padding-top: 20px;
+			  padding-bottom: 20px;
+			  background-color: white;
+			  }
+		div{
+			display: inline;
+			/* padding-right: 102px; */
+			color: #0f0f91;
+		}
+		p{
+			color: #808080cc;
+			padding-right: 20px;
+			
+		}
+		.sit{
+			display: flex;
+		}
+		.labor{
+			display: flex;
+		}
+		.clock{
+			padding-top: 22px;
+			font-size: 12px;
+		}
+		.fb{
+			    padding-top: 22px;
+			    font-size: 12px;
+				
+		}
+		
+		
+
+ 
+ 
